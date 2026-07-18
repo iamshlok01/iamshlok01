@@ -16,83 +16,48 @@
 <img src="https://img.shields.io/github/stars/iamshlok01?style=for-the-badge"/>
 </p>
 
----
+# 💫 About Me
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
+🚀 I'm **Shlok Singh**, a passionate **Full Stack Developer** and **AI Enthusiast** from India, focused on building scalable, user-centric applications that solve real-world problems.
 
-```typescript
-class ShlokSingh {
+💡 I enjoy transforming innovative ideas into impactful digital products by combining modern web technologies with Artificial Intelligence.
 
-    name = "Shlok Singh";
-    role = "Full Stack Developer";
-    location = "India 🇮🇳";
+### 🔭 Currently Working On
+- 🤖 AI-powered applications
+- 🌐 Full Stack Web Development projects
+- 🏆 Smart India Hackathon solutions
+- 🚀 Personal projects and open-source contributions
 
-    currentFocus = [
-        "🚀 Building scalable Full Stack Applications",
-        "🤖 Developing AI-powered solutions",
-        "🏆 Smart India Hackathon Projects"
-    ];
+### 🌱 Currently Learning
+- ⚛️ Next.js & TypeScript
+- 🧠 Generative AI & Large Language Models (LLMs)
+- ☁️ Cloud Computing (AWS & Azure)
+- 🐳 Docker & DevOps
+- ⛓️ Blockchain Technology
+- 🏗️ System Design & Scalable Architectures
 
-    learning = [
-        "Next.js",
-        "TypeScript",
-        "Generative AI",
-        "Large Language Models",
-        "Docker",
-        "Cloud Computing",
-        "Blockchain"
-    ];
+### 🤝 Looking to Collaborate On
+- Open Source Projects
+- AI/ML Applications
+- MERN Stack & Next.js Projects
+- Startup & SaaS Products
+- Innovative Hackathon Projects
 
-    techStack = {
-        frontend: [
-            "React",
-            "Next.js",
-            "Tailwind CSS",
-            "JavaScript",
-            "TypeScript"
-        ],
+### 💬 Ask Me About
+- Java • Python • C • C++
+- React • Next.js • Node.js
+- MongoDB • MySQL
+- Git & GitHub
+- Web Development
+- AI Tools & Prompt Engineering
 
-        backend: [
-            "Node.js",
-            "Express.js",
-            "Django"
-        ],
+### 🎯 My Goal
+To become a Software Engineer who builds intelligent, scalable, and impactful products that improve people's lives.
 
-        database: [
-            "MongoDB",
-            "MySQL"
-        ],
-
-        languages: [
-            "Java",
-            "Python",
-            "C",
-            "C++"
-        ]
-    };
-
-    interests = [
-        "Artificial Intelligence",
-        "System Design",
-        "Open Source",
-        "Cloud Computing",
-        "Startup Development"
-    ];
-
-    currentlyLookingFor = [
-        "Software Engineering Internships",
-        "Open Source Collaboration",
-        "Hackathons",
-        "Freelance Opportunities"
-    ];
-
-    motto = "Turning ideas into scalable digital products.";
-}
-
-const me = new ShlokSingh();
-```
+### ⚡ Fun Fact
+I believe **great software is built by continuously learning, experimenting, and never settling for "good enough."** 🚀
 
 ---
 
