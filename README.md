@@ -1,27 +1,231 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>- Full-Stack Web Development projects<br>- AI-powered applications<br><br>👯 I’m looking to collaborate on:<br>- Open Source Projects<br>- AI/ML Applications<br>- MERN Stack & Next.js Projects<br>- Startup Ideas<br><br>🤝 I’m looking for help with:<br>- System Design<br>- Cloud Deployment (AWS, Azure, Vercel)<br>- Advanced AI & LLM Integration<br><br>🌱 I’m currently learning:<br>- JavaScript<br>- React.js<br>- Next.js<br>- Node.js<br>- Next.js<br>- TypeScript<br>- Generative AI & Large Language Models (LLMs)<br>- DevOps & Docker<br>- Blockchain Development<br><br>💬 Ask me about:<br>-C<br>-C++<br>-Java<br>-HTML<br>-CSS<br>- MongoDB<br>- Python<br>- Git & GitHub<br>- AI Tools<br>- Web Development<br><br>⚡ Fun fact:<br>I love turning innovative ideas into real-world applications and enjoy building projects that solve practical problems. 🚀
+<!-- ======================= HEADER ======================= -->
 
+<h1 align="center">Hi 👋, I'm Shlok Singh</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shlok-singh-013112384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shloksingh9208@gmail.com) 
+<h3 align="center">
+🚀 Full Stack Developer • AI Enthusiast • Problem Solver • Open Source Contributor
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iamshlok01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iamshlok01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamshlok01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Next.js+%7C+React+%7C+Node.js;Building+Projects+That+Matter;Always+Learning+Something+New+🚀" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamshlok01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamshlok01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=iamshlok01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/iamshlok01?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/iamshlok01?style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=iamshlok01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```javascript
+const shlok = {
+    location: "India 🇮🇳",
+
+    role: "Full Stack Developer",
+
+    currentlyWorkingOn: [
+        "AI Powered Applications",
+        "Full Stack Web Projects",
+        "Smart India Hackathon"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript",
+        "Generative AI",
+        "LLMs",
+        "Docker",
+        "Blockchain"
+    ],
+
+    lookingToCollaborateOn: [
+        "Open Source",
+        "AI/ML",
+        "Startups",
+        "SaaS Products"
+    ],
+
+    askMeAbout: [
+        "Java",
+        "Python",
+        "React",
+        "Node",
+        "MongoDB",
+        "Git",
+        "AI"
+    ],
+
+    motto: "Build. Learn. Improve. Repeat. 🚀"
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shlok-singh-013112384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shloksingh9208@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+---
+
+## 🌐 Frontend
+
+React • Next.js • HTML5 • CSS3 • TailwindCSS
+
+---
+
+## ⚙ Backend
+
+Node.js • Express.js • Django
+
+---
+
+## 🗄 Database
+
+MongoDB • MySQL
+
+---
+
+## ☁ Cloud
+
+AWS • Azure • Vercel
+
+---
+
+## 🤖 AI
+
+OpenAI
+
+LLMs
+
+Prompt Engineering
+
+LangChain
+
+AI Agents
+
+---
+
+## 🛠 Tools
+
+Git
+
+GitHub
+
+Docker
+
+Cisco
+
+Power BI
+
+Figma
+
+Canva
+
+Adobe Lightroom
+
+Adobe Premiere Pro
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamshlok01&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=iamshlok01&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshlok01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamshlok01&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Shlok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamshlok01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# ⚡ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔥 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=iamshlok01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build impactful AI products
+
+✅ Contribute to Open Source
+
+✅ Crack Smart India Hackathon
+
+✅ Master System Design
+
+✅ Learn Kubernetes
+
+✅ Build SaaS Products
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+💙 If you like my work, consider giving a star to my repositories.
+
+</h3>
