@@ -1,19 +1,28 @@
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Shlok Singh</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • Problem Solver • Open Source Contributor
-</h3>
+<!-- ======================== PREMIUM HEADER ======================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Next.js+%7C+React+%7C+Node.js;Building+Projects+That+Matter;Always+Learning+Something+New+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=Shlok%20Singh&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=iamshlok01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/iamshlok01?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/iamshlok01?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;🚀+Full+Stack+Developer;🤖+Artificial+Intelligence+Explorer;⚡+Building+Scalable+Applications;🌍+Open+Source+Contributor;☁️+Cloud+%7C+DevOps+%7C+Blockchain"/>
+</p>
+
+<p align="center">
+<a href="mailto:shloksingh9208@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shlok-singh-013112384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=iamshlok01&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/iamshlok01?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/iamshlok01?style=for-the-badge&logo=github&color=yellow"/>
+
 </p>
 
 # 💫 About Me
