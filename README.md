@@ -18,56 +18,80 @@
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
 
-```bash
-> whoami
+```typescript
+class ShlokSingh {
 
-👨‍💻 Shlok Singh
+    name = "Shlok Singh";
+    role = "Full Stack Developer";
+    location = "India 🇮🇳";
 
-> role
+    currentFocus = [
+        "🚀 Building scalable Full Stack Applications",
+        "🤖 Developing AI-powered solutions",
+        "🏆 Smart India Hackathon Projects"
+    ];
 
-Full Stack Developer | AI Enthusiast
+    learning = [
+        "Next.js",
+        "TypeScript",
+        "Generative AI",
+        "Large Language Models",
+        "Docker",
+        "Cloud Computing",
+        "Blockchain"
+    ];
 
-> currently_working
+    techStack = {
+        frontend: [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "JavaScript",
+            "TypeScript"
+        ],
 
-• AI Powered Applications
-• Full Stack Web Development
-• Smart India Hackathon Projects
+        backend: [
+            "Node.js",
+            "Express.js",
+            "Django"
+        ],
 
-> currently_learning
+        database: [
+            "MongoDB",
+            "MySQL"
+        ],
 
-• Next.js
-• TypeScript
-• Generative AI
-• Docker
-• Cloud Computing
-• Blockchain
+        languages: [
+            "Java",
+            "Python",
+            "C",
+            "C++"
+        ]
+    };
 
-> interested_in
+    interests = [
+        "Artificial Intelligence",
+        "System Design",
+        "Open Source",
+        "Cloud Computing",
+        "Startup Development"
+    ];
 
-• Artificial Intelligence
-• SaaS Products
-• System Design
-• Open Source
-• Startup Development
+    currentlyLookingFor = [
+        "Software Engineering Internships",
+        "Open Source Collaboration",
+        "Hackathons",
+        "Freelance Opportunities"
+    ];
 
-> tech_stack
+    motto = "Turning ideas into scalable digital products.";
+}
 
-Java • Python • C • C++
-React • Next.js • Node.js
-MongoDB • MySQL • Docker
-AWS • Git • GitHub
-
-> current_goal
-
-Build production-ready software that solves real-world problems.
-
-> motto
-
-"Code with purpose. Build with passion. Learn without limits."
+const me = new ShlokSingh();
 ```
 
 ---
