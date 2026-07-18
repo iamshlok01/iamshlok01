@@ -20,48 +20,54 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
 
-```javascript
-const shlok = {
-    location: "India 🇮🇳",
+```bash
+> whoami
 
-    role: "Full Stack Developer",
+👨‍💻 Shlok Singh
 
-    currentlyWorkingOn: [
-        "AI Powered Applications",
-        "Full Stack Web Projects",
-        "Smart India Hackathon"
-    ],
+> role
 
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "Generative AI",
-        "LLMs",
-        "Docker",
-        "Blockchain"
-    ],
+Full Stack Developer | AI Enthusiast
 
-    lookingToCollaborateOn: [
-        "Open Source",
-        "AI/ML",
-        "Startups",
-        "SaaS Products"
-    ],
+> currently_working
 
-    askMeAbout: [
-        "Java",
-        "Python",
-        "React",
-        "Node",
-        "MongoDB",
-        "Git",
-        "AI"
-    ],
+• AI Powered Applications
+• Full Stack Web Development
+• Smart India Hackathon Projects
 
-    motto: "Build. Learn. Improve. Repeat. 🚀"
-}
+> currently_learning
+
+• Next.js
+• TypeScript
+• Generative AI
+• Docker
+• Cloud Computing
+• Blockchain
+
+> interested_in
+
+• Artificial Intelligence
+• SaaS Products
+• System Design
+• Open Source
+• Startup Development
+
+> tech_stack
+
+Java • Python • C • C++
+React • Next.js • Node.js
+MongoDB • MySQL • Docker
+AWS • Git • GitHub
+
+> current_goal
+
+Build production-ready software that solves real-world problems.
+
+> motto
+
+"Code with purpose. Build with passion. Learn without limits."
 ```
 
 ---
