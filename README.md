@@ -20,7 +20,7 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2c9e3f13-8d4f-4d9a-b95f-9f0c6985a7ef.gif"/>
 
-🚀 I'm **Shlok Singh**, a passionate **Full Stack Developer** and **AI Enthusiast** from India, focused on building scalable, user-centric applications that solve real-world problems.
+🚀 I'm  a passionate **Full Stack Developer** and **AI Enthusiast** from India, focused on building scalable, user-centric applications that solve real-world problems.
 
 💡 I enjoy transforming innovative ideas into impactful digital products by combining modern web technologies with Artificial Intelligence.
 
